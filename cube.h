@@ -12,7 +12,7 @@ const int WIDTH = 75, HEIGHT = 30;      // Screen dimensions.
 const int AREA = WIDTH * HEIGHT;        // Screen area.
 const int SLEEP_TIME = 1000;            // Display speed.
 const int DISTANCE_FROM_CAM = 50;       // Distance from the camera to the cube.
-const float CUBE_WIDTH = 5;             // Cube width.
+const float CUBE_WIDTH = 7;             // Cube width.
 const float INCREMENT_SPEED = 0.5;      // Increment in cube coordinates.
 const float INCREMENT_ANGLE = 0.005;    // Angle increase.
 const float K1 = 40;                    // Scale factor to adjust the screen position of the points according to their z-coordinate. Changing this value will affect the scale and position of the projected points on the screen.

@@ -1,6 +1,8 @@
-# <p style="text-align: center;">Spinning Cube in C++</p>
+# <p align="center">Spinning Cube in C++</p>
 
-![Cube](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBrAhgp8cSL596VJaHnlTrgf6ZPGTI7C-fBOgjb7hhtmFTcCCHZ2buImxrewvKTb9yuIgrmza0acA6HzMA0J-5y00yhsw=w1920-h966)
+<p align="center">
+<img src="https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBrAhgp8cSL596VJaHnlTrgf6ZPGTI7C-fBOgjb7hhtmFTcCCHZ2buImxrewvKTb9yuIgrmza0acA6HzMA0J-5y00yhsw=w1920-h966" alt="Cube" />
+</p>
 
 This code written in C++ is based on [Servet Gulnaroglu](https://github.com/servetgulnaroglu)'s repository of [cube.c](https://github.com/servetgulnaroglu/cube.c) developed in C.
 
